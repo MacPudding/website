@@ -610,7 +610,7 @@ h6 {
 }
 
 .c-news-holder {
-  display: block;
+  display: none;
   background-color: #faf8ec;
   width: 100%;
   text-align: center;
