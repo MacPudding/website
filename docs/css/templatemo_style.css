@@ -610,7 +610,7 @@ h6 {
 }
 
 .c-news-holder {
-  display: none;
+  display: block;
   background-color: #faf8ec;
   width: 100%;
   text-align: center;
@@ -625,6 +625,7 @@ h6 {
   padding: 1.4rem 1rem;
   margin: 0px;
 }
+
 .head-nontification {
   display: block;
   font-size: 20px;
